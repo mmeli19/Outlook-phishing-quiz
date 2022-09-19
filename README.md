@@ -1,3 +1,12 @@
+# Phishing Quiz Senior Thesis
+This is a hack of https://phishingquiz.withgoogle.com/ that i used to collect data from Claflin University students on whether they can identify phish or legitimate emails. 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
