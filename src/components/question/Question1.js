@@ -33,7 +33,7 @@ const Question1 = ({ handleNext, page, obj, handleScore, email, name }) => {
   return (
     <Container fluid className="Container2">
       <Navbar className="py-2 px-md-5 Navbar">
-        <p className="mx-5 text-white">{page}/8</p>
+        <p className="mx-5 text-white">{page}/10</p>
       </Navbar>
       <Container
         fluid
