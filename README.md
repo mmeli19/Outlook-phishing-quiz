@@ -1,6 +1,5 @@
 # Phishing Quiz Senior Thesis
-This is a hack of https://phishingquiz.withgoogle.com/ that i used to collect data from Claflin University students on whether they can identify phish or legitimate emails. Completed project can be viewed here https://venerable-sorbet-29d233.netlify.app/
-
+This is a hack of https://phishingquiz.withgoogle.com/ that i used to collect data from Claflin University students on whether they can identify phish or legitimate emails. Completed project can be viewed here (https://spearphishingquiz.netlify.app/)
 
 
 
